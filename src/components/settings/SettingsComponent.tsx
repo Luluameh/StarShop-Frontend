@@ -69,8 +69,6 @@ const NewSettings: React.FC = () => {
             </div>
           </div>
 
-         
-
           <div className="flex justify-start w-full">
             <button
               type="submit"

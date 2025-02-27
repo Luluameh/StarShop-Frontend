@@ -24,7 +24,6 @@ const StepOneContent: React.FC = () => {
               name="username"
               type="text"
               icon={User}
-              className=" border-b-4 border-primary-purple placeholder:text-white"
             />
 
             <Input
@@ -34,7 +33,6 @@ const StepOneContent: React.FC = () => {
               name="email"
               type="email"
               icon={Mail}
-              className=" border-b-4 border-primary-purple placeholder:text-white"
             />
 
             <Input
@@ -44,7 +42,6 @@ const StepOneContent: React.FC = () => {
               name="location"
               type="text"
               icon={MapPin}
-              className=" border-b-4 border-primary-purple placeholder:text-white"
             />
           </form>
         </StarShopCard>
